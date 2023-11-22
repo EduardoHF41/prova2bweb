@@ -1,0 +1,16 @@
+.tamanhofooter{
+    min-height: 5%;
+}
+
+footer{
+    background-color: #162235;
+
+}
+footer p{
+    margin: 0px;
+}
+
+.textdecoration{
+    text-decoration: none;
+    color: white;
+}
